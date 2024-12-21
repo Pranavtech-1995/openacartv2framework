@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.ExtentReport"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Linuxfirefox(failed)">
+    <parameter name="os" value="Linux"/>
+    <parameter name="browser" value="firefox"/>
+    <groups>
+      <run>
+        <include name="master"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testcases.TC001AccountRegistrationTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="verify_registration_account"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- testcases.TC001AccountRegistrationTest -->
+    </classes>
+  </test> <!-- Linuxfirefox(failed) -->
+</suite> <!-- Failed suite [Suite] -->

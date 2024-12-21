@@ -1,0 +1,57 @@
+16:45:29:411 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********
+16:45:36:203 [TestNG-tests-2] INFO  testcases.TC003DataDrivenTestCase - ********
+16:49:34:647 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\openacartv2framework\master.xml
+
+16:49:41:258 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *****started*********
+16:49:41:614 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *****clicked on my account*********
+16:49:42:670 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *****Txt_email*********
+16:49:45:055 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - ***** enteringValidation*********
+16:49:45:055 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *****Validation*********
+16:49:45:064 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *****finished*********
+16:49:51:534 [TestNG-tests-1] INFO  testcases.TC002LoginpageTestCase - *******
+16:49:51:534 [TestNG-tests-1] INFO  testcases.TC002LoginpageTestCase - *******
+16:50:02:106 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:02:107 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:02:964 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:04:337 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********
+16:50:04:338 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********
+16:50:06:074 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ****
+16:50:06:085 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:06:086 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:06:772 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:17:379 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********
+16:50:17:386 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:17:387 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:17:922 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:18:972 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********
+16:50:18:973 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********
+16:50:20:534 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ****
+16:50:20:547 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:20:548 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:21:048 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:31:520 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********
+16:50:31:527 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:31:528 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:32:052 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
+16:50:42:618 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********
+16:59:26:793 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\openacartv2framework\master.xml
+
+16:59:37:305 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *****started*********
+16:59:38:339 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *****clicked on my account*********
+16:59:39:196 [TestNG-tests-2] INFO  testcases.TC001AccountRegistrationTest - *****started*********
+16:59:40:073 [TestNG-tests-2] INFO  testcases.TC001AccountRegistrationTest - *****clicked on my account*********
+16:59:41:477 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *****Txt_email*********
+16:59:44:171 [TestNG-tests-2] INFO  testcases.TC001AccountRegistrationTest - *****Txt_email*********
+16:59:45:084 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - ***** enteringValidation*********
+16:59:45:086 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *****Validation*********
+16:59:45:093 [TestNG-tests-1] INFO  testcases.TC001AccountRegistrationTest - *****finished*********
+16:59:46:836 [TestNG-tests-2] INFO  testcases.TC001AccountRegistrationTest - ***** enteringValidation*********
+16:59:46:837 [TestNG-tests-2] INFO  testcases.TC001AccountRegistrationTest - *****Validation*********
+16:59:46:839 [TestNG-tests-2] INFO  testcases.TC001AccountRegistrationTest - *****finished*********
+16:59:52:125 [TestNG-tests-1] INFO  testcases.TC002LoginpageTestCase - *******
+16:59:52:126 [TestNG-tests-1] INFO  testcases.TC002LoginpageTestCase - *******
+16:59:59:450 [TestNG-tests-2] INFO  testcases.TC002LoginpageTestCase - *******
+16:59:59:451 [TestNG-tests-2] INFO  testcases.TC002LoginpageTestCase - *******
+17:00:05:871 [TestNG-tests-1] INFO  testcases.TC003DataDrivenTestCase - ********start********
